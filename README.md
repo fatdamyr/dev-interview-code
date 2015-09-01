@@ -7,7 +7,7 @@ A series of code exercises for potential employment candidates
 2) Install [Vagrant](http://www.vagrantup.com/downloads.html) on the host machine
 3) From the root of this repository run the command
 ```bash
-vagrant up
+vagrant up --provider virtualbox
 ```
 This will start up a virtual machine with all the needed development tools. To login to the machine, use:
 username: vagrant
