@@ -1,2 +1,17 @@
 # dev-interview-code
 A series of code exercises for potential employment candidates
+
+## To Setup Candidate Development Environment
+
+1) Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads), a free to use virtual machine manager.
+2) Install [Vagrant](http://www.vagrantup.com/downloads.html) on the host machine
+3) From the root of this repository run the command
+```bash
+vagrant up
+```
+This will start up a virtual machine with all the needed development tools. To login to the machine, use:
+username: vagrant
+password: vagrant
+
+The code exercises for the candidate will be mounted into the VM at /home/vagrant/assignments.
+
