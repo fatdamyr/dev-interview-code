@@ -28,7 +28,7 @@ A few pointers/notes
 	2) Read the requirements that exist as JavaDocs in the interface
 	3) Feel free to design your solution however you see fit
 	4) There does not need to be any persistence beyond inside of your Spring Bean (data gone once the JVM shuts down).  
-	5) Use whatever IDE or editor you desire.  The dev machine we provide, if you choose to use it, has Eclipse and Netbeans installed.
+	5) Use whatever IDE or editor you desire.  The dev machine we provide, if you choose to use it, has Eclipse installed.
 	6) Feel free to use Google or similar sources to help complete the work, however you may not "phone a friend"
 
 Good Luck!
