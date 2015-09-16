@@ -15,3 +15,11 @@ password: vagrant
 
 The code exercises for the candidate will be mounted into the VM at /home/vagrant/assignments.
 
+## Cleaning up after an interview
+
+1) Destroy the VM that was used for the interview by running the following command from the root of the project.
+```bash
+vagrant destroy
+```
+
+
