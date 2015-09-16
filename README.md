@@ -21,5 +21,6 @@ The code exercises for the candidate will be mounted into the VM at /home/vagran
 ```bash
 vagrant destroy
 ```
+2) Run a git clean on the project to remove local changes
 
 
